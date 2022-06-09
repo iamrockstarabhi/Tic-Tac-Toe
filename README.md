@@ -18,12 +18,12 @@ Requirements:
 
 `kotlin tictactoe.kt`
 
-![Simple_Tic-Tac-Toe](https://user-images.githubusercontent.com/89914294/172914529-ec03c0cf-2df3-4e5c-ad04-8158ae44eeea.gif)
+![Tic-Tac-Toe](https://user-images.githubusercontent.com/89914294/172915715-194f0793-3557-447c-ab7d-effdd9c1dcf2.gif)
+
 
 # Code It Yourself
 
 ## Welcome To The Battlefield!
-
 
 <h4 style="text-align: center;">Description</h4>
 
