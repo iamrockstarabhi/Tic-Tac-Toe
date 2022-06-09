@@ -1,6 +1,8 @@
 # Tic-Tac-Toe
 
-![Python projects](https://media.giphy.com/media/3oriNKQe0D6uQVjcIM/giphy.gif)
+<p align=center>
+<img src="https://thumbs.gfycat.com/UnsungIncompleteCicada-size_restricted.gif" alt="tic tac toe" title="tic tac toe">
+</p>
 
 ### About this project
 
