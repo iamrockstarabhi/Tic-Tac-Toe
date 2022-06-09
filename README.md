@@ -18,7 +18,7 @@ Requirements:
 
 `kotlin tictactoe.kt`
 
-https://user-images.githubusercontent.com/89914294/172910906-e2e66d64-adcd-4f1d-bbeb-72ca1ec185b6.mp4
+![tictactoe](https://user-images.githubusercontent.com/89914294/172912390-f180305a-48bc-44f1-9426-c695cbb93866.gif)
 
 # Code It Yourself
 
