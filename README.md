@@ -18,7 +18,7 @@ Requirements:
 
 
 
-# Code it yourself
+# Code It Yourself
 
 ## Welcome to the battlefield!
 
@@ -27,7 +27,7 @@ Requirements:
 
 <p>Nowadays, this game is known all over the world. Each country may have its own version of the name, sometimes the rules are different, but the meaning of the game remains the same.</p>
 
-<p>However, our game should show the field in an "intermediate" states too. Let's try to visualize different combinations that the user will determine from the input. It is also important to think about the interface and set boundaries for our field.</p>
+<p>It is important to think about the interface and set boundaries for our field.</p>
 
 <p>In addition to analyzing the field, it is equally important to add the ability to select a cell for your move. Now you need to implement human moves. Let's divide the field into cells.</p>
 
@@ -39,10 +39,9 @@ Requirements:
 
 <p>The program should ask to enter the coordinates where the user wants to make a move.</p>
 
-<p><strong>Note</strong> Keep in mind that the first coordinate goes from left to right and the second coordinate goes from bottom to top. Also, notice that coordinates start with 1 and can be 1, 2 or 3.</p>
+<p><strong>Note</strong> Keep in mind that the first coordinate goes from left to right and the second coordinate goes from top to bottom. Also, notice that coordinates start with 1 and can be 1, 2 or 3.</p>
 
 <p>But what if the user enters incorrect coordinates? The user could enter symbols instead of numbers or enter coordinates representing occupied cells. You need to prevent all of that by checking a user's input and catching possible exceptions.</p>
-
 <p> </p>
 
 <p>We are at the finish line! But playing alone is not so interesting, is it? Also add the ability to play from the beginning (empty field) to the result (win or draw).</p>
@@ -58,12 +57,11 @@ Requirements:
 	<li>Prints an empty 3x3 field at the beginning of the game. Elements of the field can contain only <code class="java">'X'</code>, <code class="java">'O'</code> and <code class="java">' '</code> symbols.</li>
 	<li>Sets the field to a specific format, i.e. field should start and end with <code class="java">---------</code>, all lines in between should start and end with <code class="java">'|'</code> symbol and everything in the middle should be separated with a single space.  </li>
 	<li>Creates a game loop where the program asks the user to enter the cell coordinates, analyzes the move for correctness and shows a field with the changes if everything is ok.</li>
-	<li>Then the user should input 2 numbers that represent the cell on which user wants to make his X or O.</li>
+	<li>Then the user should input 2 numbers that represent the cell on which user wants to make his X.</li>
 	<li>Analyze user input and show messages in the following situations:<br>
 	-<code class="java">"This cell is occupied! Choose another one!"</code> - if the cell is not empty;<br>
 	-<code class="java">"You should enter numbers!"</code> - if the user enters other symbols;<br>
-	-<code class="java">"Coordinates should be from 1 to 3!"</code> - if the user goes beyond the field.</li>
-	
+	-<code class="java">"Coordinates should be from 1 to 3!"</code> - if the user goes beyond the field.<li>
 	<li> After 5 turns (including X turns and O turns), find the state in which the game is at the moment and print it. Possible states:</li>
 
 <ul>
@@ -71,7 +69,6 @@ Requirements:
 	<li><code class="java">"X wins"</code> - when the field has three X in a row;</li>
 	<li><code class="java">"O wins"</code> - when the field has three O in a row;</li>
 <ul>
-
 	<li>Ends the game when someone wins or there is a draw.</li>
 </ol>
 
