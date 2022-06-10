@@ -61,14 +61,14 @@ Requirements:
 	<li>Creates a game loop where the program asks the user to enter the cell coordinates, analyzes the move for correctness and shows a field with the changes if everything is ok.</li>
 	<li>Then the user should input 2 numbers that represent the cell on which user wants to make his X.</li>
 	<li>Analyze user input and show messages in the following situations:<br>
-	-<code class="java">"This cell is occupied! Choose another one!"</code> - if the cell is not empty;<br>
-	-<code class="java">"You should enter numbers!"</code> - if the user enters other symbols;<br>
-	-<code class="java">"Coordinates should be from 1 to 3!"</code> - if the user goes beyond the field.</li>
+	- <code class="java">"This cell is occupied! Choose another one!"</code> - if the cell is not empty;<br>
+	- <code class="java">"You should enter numbers!"</code> - if the user enters other symbols;<br>
+	- <code class="java">"Coordinates should be from 1 to 3!"</code> - if the user goes beyond the field.</li>
 	<li> After 5 turns (including X turns and O turns), find the state in which the game is at the moment and print it. Possible states:</li>
 <ul>
-	-<li><code class="java">"X wins"</code> - when the field has three X in a row;</li>
-	-<li><code class="java">"O wins"</code> - when the field has three O in a row;</li>
-	-<li><code class="java">"Draw"</code> - when no side has a three in a row and the field has no empty cells;</li>
+	- <code class="java">"X wins"</code> - when the field has three X in a row
+	- <code class="java">"O wins"</code> - when the field has three O in a row
+	- <code class="java">"Draw"</code> - when no side has a three in a row and the field has no empty cells
 </ul>
 	<li>Ends the game when someone wins or there is a draw.</li>
 </ol>
