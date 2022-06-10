@@ -56,7 +56,7 @@ Requirements:
 <p>You should write a program that:</p>
 
 <ol>
-	<li>Prints an empty 3x3 field at the beginning of the game. Elements of the field can contain only <code class="java">'X'</code>, <code class="java">'O'</code> and <code class="java">' '</code> symbols.</li>
+	<li>Prints an empty 3x3 field at the beginning of the game having <code class="java">' '</code> symbol. Elements of the field can contain only <code class="java">'X'</code> and <code class="java">'O'</code> symbols.</li>
 	<li>Sets the field to a specific format, i.e. field should start and end with <code class="java">---------</code>, all lines in between should start and end with <code class="java">'|'</code> symbol and everything in the middle should be separated with a single space.  </li>
 	<li>Creates a game loop where the program asks the user to enter the cell coordinates, analyzes the move for correctness and shows a field with the changes if everything is ok.</li>
 	<li>Then the user should input 2 numbers that represent the cell on which user wants to make his X.</li>
