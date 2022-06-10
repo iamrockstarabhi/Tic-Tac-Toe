@@ -66,9 +66,9 @@ Requirements:
 	- <code class="java">"Coordinates should be from 1 to 3!"</code> - if the user goes beyond the field.</li>
 	<li> After 5 turns (including X turns and O turns), find the state in which the game is at the moment and print it. Possible states:</li>
 <ul>
-	- <code class="java">"X wins"</code> - when the field has three X in a row
-	- <code class="java">"O wins"</code> - when the field has three O in a row
-	- <code class="java">"Draw"</code> - when no side has a three in a row and the field has no empty cells
+	<li><code class="java">"X wins"</code> - when the field has three X in a row;</li>
+	<li><code class="java">"O wins"</code> - when the field has three O in a row;</li>
+	<li><code class="java">"Draw"</code> - when no side has a three in a row and the field has no empty cells;</li>
 </ul>
 	<li>Ends the game when someone wins or there is a draw.</li>
 </ol>
