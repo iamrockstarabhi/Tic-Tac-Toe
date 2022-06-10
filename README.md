@@ -68,7 +68,7 @@ Requirements:
 <ul>
 	<li><code class="java">"X wins"</code> - when the field has three X in a row;</li>
 	<li><code class="java">"O wins"</code> - when the field has three O in a row;</li>
-	<li><code class="java">"Draw"</code> - when no side has a three in a row and the field has no empty cells;</li>
+	<li><code class="java">"Draw"</code> - when no side has a three in a row and the field has no empty cells.</li>
 </ul>
 	<li>Ends the game when someone wins or there is a draw.</li>
 </ol>
