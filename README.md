@@ -20,12 +20,10 @@ Gif:
 
 ![Tic-Tac-Toe](https://user-images.githubusercontent.com/89914294/172919006-c202a5b3-70fa-4103-a32b-b9cd65468a8e.gif)
 
+<br>
 
 ## Working Explanation
-
-# Code It Yourself
-
-## Welcome To The Battlefield!
+<br>
 
 <h4 style="text-align: center;">Description</h4>
 
