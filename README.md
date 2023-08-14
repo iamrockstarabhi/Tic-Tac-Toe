@@ -16,18 +16,11 @@ Requirements:
 - Kotlin Compiler(v1.6.21 or above) and a Code Writer say Notepad or any other, or
 - IntelliJ IDEA
 
-`kotlin tictactoe.kt`
-
 ### Demo
 
 Gif:
 
 ![Tic-Tac-Toe](https://user-images.githubusercontent.com/89914294/172919006-c202a5b3-70fa-4103-a32b-b9cd65468a8e.gif)
-
-
-Video:
-
-*** File Size Too Big ***
 
 
 # Code It Yourself
